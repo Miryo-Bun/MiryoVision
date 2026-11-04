@@ -1,0 +1,9 @@
+{
+  "name": "miryo-vision",
+  "version": "1.0.0",
+  "description": "MiryoVision — an open-source image analysis and OCR plugin for Claude Code.",
+  "author": {
+    "name": "Miryo Bun"
+  },
+  "license": "GPL-3.0"
+}
