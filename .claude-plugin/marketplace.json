@@ -5,14 +5,14 @@
   },
   "metadata": {
     "description": "Open-source plugins developed by MiryoLove.",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "plugins": [
     {
       "name": "miryo-vision",
       "source": "./",
-      "description": "Image analysis and OCR plugin for Claude Code.",
-      "version": "1.0.0"
+      "description": "Image analysis plugin for Claude Code.",
+      "version": "1.0.1"
     }
   ]
 }
